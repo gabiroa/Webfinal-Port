@@ -4,7 +4,7 @@
   >
     <h2 class="text-white text-3xl md:text-6xl">Build faster websites.</h2>
     <p class="text-slate-500 mt-4 text-lg md:text-xl">
-      Static or Dynamic, the choice is yours with Nuxt's hybrid rendering modes.
+      Static or Dynamic, the choice is yours with Roata's hybrid rendering modes.
     </p>
     <div class="flex mt-5">
       <LandingLink href="#" styleName="inverted">Get Started</LandingLink>

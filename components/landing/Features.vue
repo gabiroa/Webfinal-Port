@@ -3,25 +3,25 @@ const features = [
   {
     title: "Bring Your Own Framework",
     description:
-      "Build your site using Vue, web components, or just plain ol' HTML + JavaScript.",
+      "Flexibility to construct your own framework tailored to your unique project needs, we provide customizable tools and resources to facilitate seamless development and innovation",
     icon: "bx:bxs-briefcase",
   },
   {
     title: "100% Static HTML, No JS",
     description:
-      "Nuxt renders your entire page to static HTML, removing all JavaScript from your final build by default.",
+      "ROATA renders your entire page to static HTML, removing all JavaScript from your final build by default.",
     icon: "bx:bxs-window-alt",
   },
   {
     title: "On-Demand Components",
     description:
-      "Need some JS? Nuxt can automatically hydrate interactive components when they become visible on the page.  ",
+      "Streamlining your design process with on-demand components, we offer a diverse library of customizable elements ready to integrate seamlessly into your project, ensuring efficiency and adaptability.",
     icon: "bx:bxs-data",
   },
   {
     title: "Broad Integration",
     description:
-      "Nuxt supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any other npm packages.",
+      "ROATA supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any other npm packages.",
     icon: "bx:bxs-bot",
   },
   {
@@ -33,7 +33,7 @@ const features = [
   {
     title: "Community",
     description:
-      "Nuxt is an open source project powered by hundreds of contributors making thousands of individual contributions.",
+      "Fostering a vibrant and collaborative community, we provide a platform for UX designers to connect, share insights, and collectively elevate their craft through knowledge exchange and support.",
     icon: "bx:bxs-user",
   },
 ];
@@ -42,11 +42,10 @@ const features = [
 <template>
   <div class="mt-16 md:mt-0">
     <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
-      Everything you need to start a website
+      Catering to your users needs
     </h2>
     <p class="text-lg mt-4 text-slate-600">
-      Nuxt comes batteries included. It takes the best parts of state-of-the-art
-      tools and adds its own innovations.
+      We specialize in crafting Seamless User Experiences: Empowering Digital Interactions with UX Design Expertise
     </p>
   </div>
 

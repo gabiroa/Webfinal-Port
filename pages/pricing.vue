@@ -12,7 +12,7 @@ const pricing = [
       "Lifetime free",
       "Up to 3 users",
       "Unlimited Pages",
-      "Nuxt Sub domain",
+      "Personal Domain",
       "Basic Integrations",
       "Community Support",
     ],
@@ -33,7 +33,7 @@ const pricing = [
     features: [
       "All Free Features",
       "Up to 20 users",
-      "20 Custom domains",
+      "3 Custom domains",
       "Unlimited Collaborators",
       "Advanced Integrations",
       "Priority Support",
